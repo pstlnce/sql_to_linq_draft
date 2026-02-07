@@ -1,0 +1,5 @@
+- **WHERE**: supports filtering using `WHERE` 
+- **SELECT**: follows column selections in `SELECT`. 
+- **LINQ backend rewrite**: initial architecture used LINQ incorrectly, full rewrite planned
+- **Frontend re-architecture**: planning redesign to improve performance and maintainability.
+- **Lack of optimization passes**   
